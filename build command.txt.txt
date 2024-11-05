@@ -1,1 +1,1 @@
-docker build -t custom-newman
+docker build -t custom-image
